@@ -1,10 +1,12 @@
 {
   "sombraygrandesfrutas": [
     {
+      "id": "1",
       "nombre": "Sombras y grandes frutas",
       "src": "sombraygrandesfrutas.jpg",
       "tipos": [
         {
+          "idp": "1",
           "nombre": "Flamboyán",
           "nombrecientifico": "Delonix regia",
           "imagen": "flamboyan.jpg",
@@ -14,8 +16,7 @@
               "riesgo": "Durante el invierno no es aconsejable regarlo más de una vez por semana y en verano el riego debe ser frecuente, una vez al día o cada dos como máximo.",
               "sustrato": "El sustrato adecuado para su perfecto crecimiento es la turba negra con perlita mezclada al 20% y si además le añadimos un 10% de humus de lombriz mucho mejor.",
               "abono": "Si el lugar donde está el flamboyán no es precisamente su hábitat natural, es fundamental abonarlo para aportar los nutrientes necesarios para su crecimiento al sustrato. A partir de la brotación de primavera se utiliza abono granulado, aportándolo alrededor del tronco en una cantidad de 100-200 gramos y repitiendo a mediados de verano.",
-              "transplante":"puede cultivarse en una maceta durante los primeros años, es conveniente trasplantarlo a suelo para que pueda alcanzar su tamaño máximo. La época adecuada es a comienzos de la primavera.",
-
+              "transplante":"puede cultivarse en una maceta durante los primeros años, es conveniente trasplantarlo a suelo para que pueda alcanzar su tamaño máximo. La época adecuada es a comienzos de la primavera."
             }
           ]
         }
