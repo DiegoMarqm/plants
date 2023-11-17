@@ -1,22 +1,147 @@
 {
-  "sombraygrandesfrutas": [
+  "plantasyarboles": [
     {
-      "id": "1",
-      "nombre": "Sombras y grandes frutas",
-      "src": "sombraygrandesfrutas.jpg",
-      "tipos": [
+      "sombraygrandes": [
+        {
+          "id": "1",
+          "name": "Flamboyán",
+          "description": "Árbol caducifolio, con alturas de 12 hasta 15 m y diámetro normal de 60 cm o más; tallo algo torcido que por lo general se ramifica a muy poca altura, corteza de color gris, algo áspera que secreta una resina gomosa, con una extensa copa aplanada en forma de sombrilla; las hojas son bipinnadas; las flores son de color rojo y se disponen en racimos laterales; los frutos son vainas leñosas de 40 a 60 cm de longitud y de 5 a 7 cm de ancho, de 5 mm de espesor, planas, de color castaño oscuro en la madurez, que abren longitudinalmente en dos partes; las semillas presentan una forma fusiforme, ligeramente comprimidas, miden de 15 a 20 mm de largo por 0.8 a 1.0 mm de diámetro, la testa es de color moreno claro provista de vetas obscuras, lisa, lustrosa, coriácea, dura y resistente.",
+          "nombreCientifico": "Delonix regia",
+          "image": "imagen del flamboyan",
+          "caracteristicas": [
+            {
+              "riego": "riego del flamboyan",
+              "temperatura": "temperatura de flamboyan",
+              "suelo": "Caracteristicas del suelo del flamboyan"
+            }
+          ]
+        },
+        {
+          "id": "2",
+          "name": "Tamarindo",
+          "description": "Descripción del tamarindo",
+          "nombreCientifico": "Tamarindus indica",
+          "image": "imagen del tamarindo",
+          "caracteristicas": [
+            {
+              "riego": "riego del tamarindo",
+              "temperatura": "temperatura de tamarindo",
+              "suelo": "Caracteristicas del suelo del tamarindo"
+            }
+          ]
+        }
+      ]
+    },
+
+    {
+      "medianas": [
+        {
+          "idm": "1",
+          "name": "Yaka",
+          "description": "decripcion yaka",
+          "nombreCientifico": "Artocarpus heterophyllus",
+          "image": "imagen del yaka",
+          "caracteristicas": [
+            {
+              "riego": "riego del yaka",
+              "temperatura": "temperatura de yaka",
+              "suelo": "Caracteristicas del suelo del yaka"
+            }
+          ]
+        },
+        {
+          "idm": "2",
+          "name": "Lychee",
+          "description": "decripcion lychee",
+          "nombreCientifico": "Litchi chinensis",
+          "image": "imagen del lychee",
+          "caracteristicas": [
+            {
+              "riego": "riego del lychee",
+              "temperatura": "temperatura de lychee",
+              "suelo": "Caracteristicas del suelo del lychee"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "pequenas": [
         {
           "idp": "1",
-          "nombre": "Flamboyán",
-          "nombrecientifico": "Delonix regia",
-          "imagen": "flamboyan.jpg",
-          "cuidados": [
+          "name": "Moringa",
+          "description": "decripcion moringa",
+          "nombreCientifico": "Moringa oleifera",
+          "image": "imagen del moringa",
+          "caracteristicas": [
             {
-              "ubicacion": "A pesar de su origen tropical, los cuidados de este hermoso árbol no son demasiado complicados y se puede disfrutar casi en cualquier zona climática, siempre y cuando las temperaturas oscilen entre los 10 y los 35 ºC.",
-              "riesgo": "Durante el invierno no es aconsejable regarlo más de una vez por semana y en verano el riego debe ser frecuente, una vez al día o cada dos como máximo.",
-              "sustrato": "El sustrato adecuado para su perfecto crecimiento es la turba negra con perlita mezclada al 20% y si además le añadimos un 10% de humus de lombriz mucho mejor.",
-              "abono": "Si el lugar donde está el flamboyán no es precisamente su hábitat natural, es fundamental abonarlo para aportar los nutrientes necesarios para su crecimiento al sustrato. A partir de la brotación de primavera se utiliza abono granulado, aportándolo alrededor del tronco en una cantidad de 100-200 gramos y repitiendo a mediados de verano.",
-              "transplante":"puede cultivarse en una maceta durante los primeros años, es conveniente trasplantarlo a suelo para que pueda alcanzar su tamaño máximo. La época adecuada es a comienzos de la primavera."
+              "riego": "riego del moringa",
+              "temperatura": "temperatura de moringa",
+              "suelo": "Caracteristicas del suelo del moringa"
+            }
+          ]
+        },
+        {
+          "idp": "2",
+          "name": "Papaya",
+          "description": "decripcion papaya",
+          "nombreCientifico": "Carica papaya",
+          "image": "imagen del papaya",
+          "caracteristicas": [
+            {
+              "riego": "riego del papaya",
+              "temperatura": "temperatura de papaya",
+              "suelo": "Caracteristicas del suelo del papaya"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "citricos": [
+        {
+          "idc": "1",
+          "name": "Limón",
+          "description": "decripcion limón",
+          "nombreCientifico": "Citrus limon",
+          "image": "imagen del limón",
+          "caracteristicas": [
+            {
+              "riego": "riego del limón",
+              "temperatura": "temperatura de limón",
+              "suelo": "Caracteristicas del suelo del limón"
+            }
+          ]
+        },
+        {
+          "idc": "2",
+          "name": "Naranja",
+          "description": "decripcion naranja",
+          "nombreCientifico": "Citrus sinensis",
+          "image": "imagen del naranja",
+          "caracteristicas": [
+            {
+              "riego": "riego del naranja",
+              "temperatura": "temperatura de naranja",
+              "suelo": "Caracteristicas del suelo del naranja"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "endemicos": [
+        {
+          "ide": "1",
+          "name": "Zapote Negro",
+          "descripcion": "decripcion zapote",
+          "nombreCientifico": "nombre",
+          "image": "imagen zapote",
+          "caracteristicas": [
+            {
+              "riego": "riego del zapote negro",
+              "temperatura": "temperatura de zapote",
+              "suelo": "caracteristicas del suelo del zapote"
             }
           ]
         }
