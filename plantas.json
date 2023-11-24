@@ -23,13 +23,13 @@
           "name": "Yaka",
           "description": "decripcion yaka",
           "nombreCientifico": "Artocarpus heterophyllus",
-          "image": "imagen del yaka"
+          "image": "https://www.gob.mx/cms/uploads/article/main_image/88602/D_NQ_NP_653569-MLM27513183051_062018-W.jpg"
         },
         {
           "name": "Lychee",
           "description": "decripcion lychee",
           "nombreCientifico": "Litchi chinensis",
-          "image": "imagen del lychee"
+          "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/46/Litchi_chinensis_fruits.JPG/800px-Litchi_chinensis_fruits.JPG"
         }
       ]
     },
