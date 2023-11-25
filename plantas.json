@@ -36,7 +36,7 @@
           "name": "Breadfruit",
           "description": "El árbol del pan o frutipan es una planta tropical que podemos encontrar en todas las regiones cálidas y húmedas del mundo. Aunque puede superar fácilmente los 10 metros, incluso se han llegado a ver ejemplares de 21m, su cultivo en maceta es posible puesto que tolera bastante bien la poda. Su tronco a menudo ramifica desde la base, y tiene un grosor máximo de 2m de diámetro.",
           "nombreCientifico": "Artocarpus altilis",
-          "image": ""
+          "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/57/Artocarpus_altilis_%28fruit%29.jpg/220px-Artocarpus_altilis_%28fruit%29.jpg"
         }
       ]
     },
@@ -66,6 +66,24 @@
           "description": "Es un árbol frutal apreciado por su delicioso fruto, las ciruelas. Su cultivo es popular en diversas regiones del mundo debido a su sabor dulce y jugoso. El ciruelo es un árbol de tamaño mediano a grande que puede alcanzar una altura de hasta 10 metros. Sus ramas tienen una forma extendida y redondeada, y su corteza puede variar en color, desde marrón hasta grisáceo. Las hojas son ovaladas y de color verde brillante, y en primavera se cubren de hermosas flores blancas o rosadas que atraen a polinizadores como las abejas.",
           "nombreCientifico": "Prunus domestica",
           "image": "https://frutasyverduras.info/wp-content/uploads/2018/08/ciruelas-rojas-1024x680.jpg"
+        },
+        {
+          "name": "Guayaba",
+          "description": "Es un árbol tropical de tamaño máximo aproximado que puede alcanzar el árbol es de 10 metros de altura. El clima tropical es el más adecuado para plantar el árbol de guayabo, es resistente a las altas temperaturas y a la sequía, por el contrario no soporta la heladas ni el frío extremo. Necesita mucha luz para su adecuado crecimiento y los ambientes húmedos son los más favorables. El riego de este árbol debe ser frecuente ya que requiere de mucha humedad para su crecimiento, de dos a tres riegos semanales serán suficientes.",
+          "nombreCientifico": "Psidium guajava",
+          "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/44/Psidium_guajava_fruit2.jpg/250px-Psidium_guajava_fruit2.jpg"
+        },
+        {
+          "name": "Guanabana",
+          "description": "El árbol presenta ramas de baja altura y es arbustivo, alcanzando una altura de aproximadamente 8-10 mts (25-30 pies). Prefiere una altitud entre los 250-300 mts (800-1000 pies), pero se cultiva desde el nivel del mar hasta los 1,200 mts (3,500 pies). La guanábana usualmente se propaga por semilla y debe comenzar a producir fruto en 3-5 años. Las semillas, sembradas en camas y mantenidas con humedad deben germinar de 15 a 30 días después de sembradas. La guanábana prefiere suelos ricos y con buen drenaje pero puede cultivarse en suelos ácidos y arenosos. La guanábana es sensible al frío y sufrirá daños con una helada leve. Necesita de mucho sol y no soporta vientos muy fuertes. Cuando se hagan acodos, es mejor utilizar plántulas de guanábana, aunque a menudo se tiene éxito efectuando acodos en otras especies de anonas.",
+          "nombreCientifico": "Annona muricata",
+          "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/Soursop_%286992565351%29.jpg/220px-Soursop_%286992565351%29.jpg"
+        },
+        {
+          "name": "Carambolo",
+          "description": "El árbol de Carambola, también se conoce como carambolo, carambolero, tamarindo chino, torombolo, árbol del pepino o fruta estrella. Es de mediana altura y puede llegar a alcanzar los 10 metros de longitud. El cultivo del árbol de carambola se debe hacer en climas tropicales y subtropicales, es recomendable las altas temperaturas ya que es sensible a heladas. ",
+          "nombreCientifico": "Averrhoa carambola",
+          "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/Averrhoa_carambola_ARS_k5735-7.jpg/220px-Averrhoa_carambola_ARS_k5735-7.jpg"
         }
       ]
     },
@@ -82,6 +100,17 @@
           "description": "Las papayas crecen en climas tropicales y también se conocen como papaya o papayón. Su sabor dulce, color vibrante y el aporte de una amplia variedad de beneficios para la salud la convierten en una fruta popular.",
           "nombreCientifico": "Carica papaya",
           "image": "https://i0.wp.com/www.corpmontana.com/blog/wp-content/uploads/2023/07/cultivo-de-papaya.png?fit=1798%2C1200&ssl=1"
+        },
+        {
+          "name": "Platano",
+          "description": "Planta herbácea perenne gigante, con rizoma corto y tallo aparente, que resulta de la unión de las vainas foliares, cónico y de 3,5-7,5 m de altura, terminado en una corona de hojas. El banano exige un clima cálido y una constante humedad en el aire. Necesita una temperatura media de 26-27 ºC, con lluvias prolongadas y regularmente distribuidas. Estas condiciones se cumplen en la latitud 30 a 31º norte o sur y de los 1 a los 2 m de altitud.",
+          "nombreCientifico": "Musa x paradisiaca ",
+          "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b6/Banana.plant.kewgardens.arp.jpg/285px-Banana.plant.kewgardens.arp.jpg"
+        },{
+          "name": "Bamboo",
+          "description": "Son un tipo de plantas con una amplia distribución y muy variadas, que pueden tener alturas desde menos de 1 metro hasta los increíbles 25 metros de alto. Los hay de climas tropicales y de climas templados, así como herbáceos o leñosos, y algunos son incluso trepadores.",
+          "nombreCientifico": "Bambusoideae",
+          "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Bamboo_Forest%2C_Gochangupseong_Fortress%2C_South_Korea_%282%29.jpg/320px-Bamboo_Forest%2C_Gochangupseong_Fortress%2C_South_Korea_%282%29.jpg"
         }
       ]
     },
@@ -98,6 +127,18 @@
           "description": "La naranja es el fruto del naranjo dulce, árbol que pertenece al género Citrus de la familia de las rutáceas. El naranjo dulce (Citrus sinensis) no se debe confundir con el amargo (Citrus aurantium), cultivado desde antiguo como árbol ornamental y para obtener fragancias de sus frutos. Estos frutos, llamados hespérides, tienen la particularidad de que su pulpa está formada por numerosas vesículas llenas de jugo. Presentan un color anaranjado, al que deben su nombre, aunque algunas especies son casi verdes cuando están maduras. Su sabor varía desde el amargo hasta el dulce,",
           "nombreCientifico": "Citrus sinensis",
           "image": "https://www.lavanguardia.com/files/image_449_220/files/fp/uploads/2022/06/26/62b85245d0ebb.r_d.241-320-9335.jpeg"
+        },
+        {
+          "name": "Mandarina",
+          "description": "El mandarino es un árbol tropical que ofrece una deliciosa fruta mejor conocida como mandarina, es fácil de cultivar y cuidar. El árbol en promedio tiene las siguientes dimensiones: 2 a 4 metros de altura y de 3 a 6 metros de ancho. Crece bien en espacios exteriores y en climas menos cálidos se suelen meter durante los meses de invierno en un invernadero o dentro en casa.",
+          "nombreCientifico": "Citrus Reticulata",
+          "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/58/Mandarin_tree_closeup.JPG/220px-Mandarin_tree_closeup.JPG"
+        },
+        {
+          "name": "Naranja china",
+          "description": "Sus flores blancas, flor de azahar, de aspecto ceroso y forma de estrella, tienen un delicioso y característico olor, siendo una de las mejores plantas aromáticas para el hogar. Su fruto, de pequeño tamaño, tiene forma de esfera achatada de color verde que se transforma en naranja cuando está maduro y es comestible, aunque su sabor es algo amargo, parecido al limón. Este pequeño árbol tiene tendencia a la verticalidad, por lo que no necesita guías ya que se sirve de un robusto tallo. El naranjo chino o enano es de copa densa, hojas pequeñas y elípticas y suele dar algunas flores en sus prolongaciones de color blanco, siendo una de las mejores plantas aromáticas.",
+          "nombreCientifico": "Fortunella margarita",
+          "image": "https://graciasnaturaleza.com/wp-content/uploads/2022/06/kumquat-o-naranja-china-b.jpg"
         }
       ]
     },
@@ -114,6 +155,18 @@
           "descripcion": "El mamey pertenece a la familia del zapote, por lo que también es llamado zapote mamey o zapote colorado; se distingue por ser una fruta de forma ovalada, de cáscara delgada con textura áspera, su pulpa es de color rojizo y el sabor es dulce; mide de 8 a 20 cm y a su semilla se le llamada pixtle.  ",
           "nombreCientifico": "Pouteria sapota",
           "image": "https://www.gob.mx/cms/uploads/image/file/618747/zapote_1.jpg"
+        },
+        {
+          "name": "Mora",
+          "description": "Se trata de una planta perenne y arbustiva de tallos rastreros o semierguidos, posee una raíz pivotante que alcanza unos 30cm de profundidad. Las raíces secundarias se distribuyen entre los primeros 10-20cm de profundidad.Presentan numerosos tallos bianuales (durante el primer año crecen y el segundo florecen y fructifican) que emergen desde la corona de la planta. Los tallos primarios son muy ramificados y de longitud variable, llegando a arquearse conforme van creciendo. Generalmente presentan espinas.",
+          "nombreCientifico": "Rubus glaucus",
+          "image": "https://www.lavanguardia.com/files/image_948_465/uploads/2018/08/05/5e997f1b96312.jpeg"
+        },
+        {
+          "name": "Chalahuite",
+          "description": "Árbol siempre verde de hasta 12 m de altura. En forma natural se encuentra sobre todo a orillas de arroyos y ríos en medio del bosque tropical perennifolio y del mesófilo de montaña entre los 0 y 1 500 m de altitud.",
+          "nombreCientifico": "Inga vera",
+          "image": "https://i.pinimg.com/564x/4b/80/1d/4b801dfc6d3fa1949d99c47035b7d810.jpg"
         }
       ]
     }
