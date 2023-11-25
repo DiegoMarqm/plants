@@ -37,15 +37,15 @@
       "pequenas": [
         {
           "name": "Moringa",
-          "description": "decripcion moringa",
+          "description": "La moringa es un género de arbustos y árboles con múltiples usos: sus hojas, raíces y vainas no maduras se consumen como hortaliza. Todas las partes del árbol de moringa -corteza, vainas, hojas, nueces, semillas, tubérculos, raíces y flores- son comestibles. Las hojas se utilizan frescas o secas y molidas en polvo. El aceite de semilla de moringa es dulce, no se pega, no se seca y no se enrancia, mientras que la torta hecha con semillas se utiliza para purificar el agua potable. Las semillas también se pueden comer verdes, tostadas, en polvo y en infusión para té o se pueden utilizar para hacer curry.",
           "nombreCientifico": "Moringa oleifera",
-          "image": "imagen del moringa"
+          "image": "https://inaturalist-open-data.s3.amazonaws.com/photos/65070195/original.jpeg"
         },
         {
           "name": "Papaya",
-          "description": "decripcion papaya",
+          "description": "Las papayas crecen en climas tropicales y también se conocen como papaya o papayón. Su sabor dulce, color vibrante y el aporte de una amplia variedad de beneficios para la salud la convierten en una fruta popular.",
           "nombreCientifico": "Carica papaya",
-          "image": "imagen del papaya"
+          "image": "https://i0.wp.com/www.corpmontana.com/blog/wp-content/uploads/2023/07/cultivo-de-papaya.png?fit=1798%2C1200&ssl=1"
         }
       ]
     },
@@ -53,15 +53,15 @@
       "citricos": [
         {
           "name": "Limón",
-          "description": "decripcion limón",
+          "description": "El limón es el fruto en baya del limonero, árbol de hoja perenne y espinoso de la familia de las rutáceas. Este árbol se desarrolla con éxito en los climas templados y tropicales, cultivándose actualmente en todo el mundo",
           "nombreCientifico": "Citrus limon",
-          "image": "imagen del limón"
+          "image": "https://www.elfinanciero.com.mx/resizer/iohzpXG47opNH6CDP6DjUep3LDU=/1440x810/filters:format(jpg):quality(70)/cloudfront-us-east-1.images.arcpublishing.com/elfinanciero/MWCLUT4EDBHX7OODM6F6P4MFWM.jpegn"
         },
         {
           "name": "Naranja",
-          "description": "decripcion naranja",
+          "description": "La naranja es el fruto del naranjo dulce, árbol que pertenece al género Citrus de la familia de las rutáceas. El naranjo dulce (Citrus sinensis) no se debe confundir con el amargo (Citrus aurantium), cultivado desde antiguo como árbol ornamental y para obtener fragancias de sus frutos. Estos frutos, llamados hespérides, tienen la particularidad de que su pulpa está formada por numerosas vesículas llenas de jugo. Presentan un color anaranjado, al que deben su nombre, aunque algunas especies son casi verdes cuando están maduras. Su sabor varía desde el amargo hasta el dulce,",
           "nombreCientifico": "Citrus sinensis",
-          "image": "imagen del naranja"
+          "image": "https://www.lavanguardia.com/files/image_449_220/files/fp/uploads/2022/06/26/62b85245d0ebb.r_d.241-320-9335.jpeg"
         }
       ]
     },
@@ -69,9 +69,15 @@
       "endemicos": [
         {
           "name": "Zapote Negro",
-          "descripcion": "decripcion zapote",
-          "nombreCientifico": "nombre",
-          "image": "imagen zapote"
+          "descripcion": "Considerado el tzapotl original náhuatl y también conocidos por los mayas como tauch, el zapote negro es  una fruta de color verde por fuera y una pulpa de color negro por dentro, consumida popularmente en época prehispánica. El zapote negro, que a simple vista puede desconcertar por el color de su pulpa, es en realidad un fruto dulce y de textura cremosa, con una consistencia parecida a la del mousse de chocolate. Su sabor nos hace acordar al caramelo y sin dudas, se trata de un alimento con muchos beneficios nutritivos y propiedades medicinales.",
+          "nombreCientifico": "Diospyros nigra",
+          "image": "https://www.gob.mx/cms/uploads/article/main_image/43307/zapote-negro.jpg"
+        },
+        {
+          "name": "Mamey Zapote",
+          "descripcion": "El mamey pertenece a la familia del zapote, por lo que también es llamado zapote mamey o zapote colorado; se distingue por ser una fruta de forma ovalada, de cáscara delgada con textura áspera, su pulpa es de color rojizo y el sabor es dulce; mide de 8 a 20 cm y a su semilla se le llamada pixtle.  ",
+          "nombreCientifico": "Pouteria sapota",
+          "image": "https://www.gob.mx/cms/uploads/image/file/618747/zapote_1.jpg"
         }
       ]
     }
