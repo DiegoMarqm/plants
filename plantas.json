@@ -10,9 +10,33 @@
         },
         {
           "name": "Tamarindo",
-          "description": "Descripción del tamarindo",
+          "description": "El tamarindo es un árbol atractivo, perennifolio, fijador de nitrógeno, que alcanza los 30 m de altura y se adapta mejor a las condiciones semiáridas. La pulpa agridulce de la vaina se come fresca, se utiliza como ingrediente para cocinar o se prepara en una bebida refrescante. Del tamarindo se obtiene madera, que se usa también para leña y carbón vegetal de alta calidad.",
           "nombreCientifico": "Tamarindus indica",
           "image": "https://eadn-wc01-3142310.nxedge.io/wp-content/uploads/2019/07/C%C3%B3mo-cultivar-un-%C3%A1rbol-de-tamarindo.jpg"
+        },
+        {
+          "name": "Aguacate",
+          "description": "Puede alcanzar hasta los 24 metros de longitud, tiene hojas enteras, de borde liso, de forma elíptica. Tienen una consistencia coriácea doradas cuando brotan, de color verde claro cuando son jóvenes y de color verde oscuro cuando maduran, flores verdosas, diminutas, y crecen en racimos o espigas, su fruto el ya conocido aguacate, de piel rugosa verde o negra, con una gran semilla en el centro y pulpa suave. ",
+          "nombreCientifico": "Persea americana",
+          "image": "https://www.hogarmania.com/archivos/202211/cuidados-planta-aguacate-848x477x80xX.jpg"
+        },
+        {
+          "name": "Mango",
+          "description": "Un árbol de mango puede crecer relativamente rápido y crecer a tamaños bastante grandes, llegando a alturas de 100 pies o más con una cubierta de 35 pies o más. Es de suponerse que la tasa de crecimiento, etapas de crecimiento, y la altura de un árbol de mango pueden variar con base en condiciones del suelo y del tiempo.",
+          "nombreCientifico": "Mangifera indica",
+          "image": "https://www.arbolesnativos.com.mx/wp-content/uploads/2022/11/arbol-de-mango-una-guia-para-el-cultivo-y-cuidado-del-arbol-de-mango-1.jpg"
+        },
+        {
+          "name": "Mora",
+          "description": "Se trata de una planta perenne y arbustiva de tallos rastreros o semierguidos, posee una raíz pivotante que alcanza unos 30cm de profundidad. Las raíces secundarias se distribuyen entre los primeros 10-20cm de profundidad.Presentan numerosos tallos bianuales (durante el primer año crecen y el segundo florecen y fructifican) que emergen desde la corona de la planta. Los tallos primarios son muy ramificados y de longitud variable, llegando a arquearse conforme van creciendo. Generalmente presentan espinas.",
+          "nombreCientifico": "Rubus glaucus",
+          "image": "https://www.lavanguardia.com/files/image_948_465/uploads/2018/08/05/5e997f1b96312.jpeg"
+        },
+        {
+          "name": "Breadfruit",
+          "description": "El árbol del pan o frutipan es una planta tropical que podemos encontrar en todas las regiones cálidas y húmedas del mundo. Aunque puede superar fácilmente los 10 metros, incluso se han llegado a ver ejemplares de 21m, su cultivo en maceta es posible puesto que tolera bastante bien la poda. Su tronco a menudo ramifica desde la base, y tiene un grosor máximo de 2m de diámetro.",
+          "nombreCientifico": "Artocarpus altilis",
+          "image": ""
         }
       ]
     },
@@ -21,15 +45,27 @@
       "medianas": [
         {
           "name": "Yaka",
-          "description": "decripcion yaka",
+          "description": "El árbol de yaka es perenne y de rápido crecimiento, pudiendo alcanzar hasta 20 metros de altura. El tronco es grueso, liso en árboles jóvenes, y áspero en árboles maduros. Es de un tono marrón grisáceo y mide 60 cm o más de diámetro. Es resistente a las plagas y enfermedades, y puede crecer en diversas condiciones climáticas, aunque prefiere los climas tropicales.",
           "nombreCientifico": "Artocarpus heterophyllus",
           "image": "https://www.gob.mx/cms/uploads/article/main_image/88602/D_NQ_NP_653569-MLM27513183051_062018-W.jpg"
         },
         {
           "name": "Lychee",
-          "description": "decripcion lychee",
+          "description": "Alcanza una altura de 15 a 20 metros, con una copa compuesta por hojas lanceoladas, de color verde y con el nervio central muy marcado, sus flores son blanco-verdosas o amarillentas, y pueden ser hermafroditas o masculinas. El fruto es una drupa que tiene 3-4cm de longitud y unos 3cm de diámetro. La parte exterior es de color rojo y se retira con facilidad. La pulpa es blanca y dulce, cada fruto contiene una única semilla.",
           "nombreCientifico": "Litchi chinensis",
           "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/46/Litchi_chinensis_fruits.JPG/800px-Litchi_chinensis_fruits.JPG"
+        },
+        {
+          "name": "Rambután",
+          "description": "Se trata de una planta relativamente pequeña, que puede alcanzar una altura de 4-6 metros de altura. Las hojas son alternas, pinnadas con 3-11 foliolos o pinnas cada una que miden 5-15cm de longitud por 3-10cm de ancho. Las flores se agrupan en panículas terminales de 15-30cm de longitud. Estas pueden ser femeninas, masculinas o hermafroditas.",
+          "nombreCientifico": "Nephelium lappaceum",
+          "image": "https://t2.uc.ltmcdn.com/es/posts/3/8/9/como_cuidar_un_rambutan_31983_600.webp"
+        },
+        {
+          "name": "Ciruela",
+          "description": "Es un árbol frutal apreciado por su delicioso fruto, las ciruelas. Su cultivo es popular en diversas regiones del mundo debido a su sabor dulce y jugoso. El ciruelo es un árbol de tamaño mediano a grande que puede alcanzar una altura de hasta 10 metros. Sus ramas tienen una forma extendida y redondeada, y su corteza puede variar en color, desde marrón hasta grisáceo. Las hojas son ovaladas y de color verde brillante, y en primavera se cubren de hermosas flores blancas o rosadas que atraen a polinizadores como las abejas.",
+          "nombreCientifico": "Prunus domestica",
+          "image": "https://frutasyverduras.info/wp-content/uploads/2018/08/ciruelas-rojas-1024x680.jpg"
         }
       ]
     },
